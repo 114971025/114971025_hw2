@@ -28,6 +28,8 @@
 ## 1. 必要套件
 主要依賴套件列於 requirements.txt 中：
 
+jieba
+
 openai
 
 pandas
