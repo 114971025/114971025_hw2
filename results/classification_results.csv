@@ -1,0 +1,5 @@
+﻿text,trad,ai
+這家餐廳的牛肉麵真的太好吃了，湯頭濃郁，麵條Q彈，下次一定再來！,"{'topic': '美食', 'sentiment': '正面', 'raw_score': 2}","{'sentiment': '正面', 'topic': '美食', 'confidence': 0.9}"
+最新的AI技術突破讓人驚艷，深度學習模型的表現越來越好,"{'topic': '科技', 'sentiment': '正面', 'raw_score': 1}","{'sentiment': '正面', 'topic': '科技', 'confidence': 0.9}"
+這部電影劇情空洞，演技糟糕，完全是浪費時間,"{'topic': '未分類', 'sentiment': '負面', 'raw_score': 0}","{'sentiment': '負面', 'topic': '電影', 'confidence': 0.9}"
+每天慢跑5公里，配合適當的重訓，體能進步很多,"{'topic': '未分類', 'sentiment': '中性', 'raw_score': 0}","{'sentiment': '正面', 'topic': '運動', 'confidence': 0.9}"
