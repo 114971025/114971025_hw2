@@ -1,7 +1,0 @@
-openai
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-python-dotenv
